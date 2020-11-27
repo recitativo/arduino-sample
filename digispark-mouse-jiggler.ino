@@ -5,7 +5,7 @@
 //#define OUTPUT_LED 0 // LED assign for Model B
 #define OUTPUT_LED 1 // LED assign for Model A
 #define STEP_MODE 4 // Mode for mouse move
-#define STEP_LENGTH 3 // Length for mouse move
+#define STEP_LENGTH 5 // Length for mouse move
 #define STEP_INTERVAL 300 // Interval for mouse move or maximum inteval when WAIT_RANDOM is not 0
 #define STEP_BACK 1 // Come back to start point after step
 #define WAIT_RANDOM 1 // Wait step at random 
